@@ -74,7 +74,6 @@ def examNomor1():
 
 def main():
     examNomor1()
-    examNomor2()
 
 if __name__ == '__main__':
     main()
